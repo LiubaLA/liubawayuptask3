@@ -1,0 +1,78 @@
+body {
+	font-family: Arial, Roboto, sans-serif;
+	color: black;
+	font-size: 14px;
+}
+
+div, p, input, button, form, span, a, ul, li {
+	box-sizing: border-box;
+}
+
+img.logo {
+	width: 150px;
+	height: 50px;
+}
+
+h1 {
+	color: red;
+}
+
+.block {
+	font-size: 16px;
+	width: 105px;
+	height: 70px;
+	background: blue;
+	margin-top: 20px ;
+	margin-bottom: 80px;
+}
+
+p.text {
+	color: white;
+	font-size: 15px;
+}
+
+p.first span {
+	color: red;
+}
+
+div.question {
+	background: green;
+	padding: 3px 3px;
+	margin: 15px 0;
+}
+
+h2 {
+	color: white;
+}
+
+.toknow {
+	background: green;
+	padding: 20px 30px;
+}
+
+p.new2 {
+	padding: 15px 70px;
+}
+
+button:hover {
+	color: blue;
+}
+
+ul {
+	margin: 20px 5px;
+}
+
+.list {
+	border: 1px solid black;
+	font-size: large;
+}
+
+.start {
+	background: green;
+	padding: 3px;
+	margin: 15px 0;
+}
+
+div.link {
+	margin: 20px 0;
+}
